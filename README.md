@@ -4,5 +4,5 @@
 Авторизация
 ![Image alt](https://github.com/ilgizik-dev/Auth-to-API/blob/main/login.png)
 Get - запрос
-![Image alt](https://github.com/ilgizik-dev/Auth-to-API/blob/main/get%20user)
+![Image alt](https://github.com/ilgizik-dev/Auth-to-API/blob/main/get%20user.png)
 
